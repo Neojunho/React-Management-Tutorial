@@ -1,3 +1,6 @@
+## Management System
+본 프로젝트는 React 실습을 위한 구성된 소스 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
